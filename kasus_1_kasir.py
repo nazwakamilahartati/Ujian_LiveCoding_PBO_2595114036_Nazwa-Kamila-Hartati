@@ -10,7 +10,6 @@ class TransaksiKasir:
     
     def hitung_diskon(self):
         subtotal = self.hitung_subtotal()
-        
         if subtotal >= 500000:
             return 15
         elif subtotal >= 250000:
