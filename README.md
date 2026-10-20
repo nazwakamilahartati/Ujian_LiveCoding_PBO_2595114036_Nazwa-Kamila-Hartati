@@ -4,7 +4,8 @@
 - Nama: Nazwa Kamila Hartati
 - NIM: 2595114036
 - kelas: B (1125B)
-- Program Studi: Pemrograman Berorientasi Objek
+- Program Studi: Teknik Informatika
+- Mata Kuliah: Pemrograman Berorientasi Objek
 
 ## Kasus yang Dikerjakan
 1. Kasus 1 - Sistem Kasir Minimarket
