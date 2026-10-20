@@ -1,6 +1,6 @@
 # Ujian Live Coding PBO
 
-## identits Mahasiswa
+## Identitas Mahasiswa
 - Nama: Nazwa Kamila Hartati
 - NIM: 2595114036
 - kelas: B (1125B)
@@ -72,7 +72,7 @@ antara 0 sampai 100.
 - Total Durasi: 00:59:35
 
 ## Repository GitHub
-https://github.com/nazwakamilahartati/Ujian_LiveCoding_PBO_2595114036_Nazwa-Kamila-Hartati.git
+https://github.com/nazwakamilahartati/Ujian_LiveCoding_PBO_2595114036_Nazwa-Kamila-Hartati.git 
 
 ## Rekaman Layar
 https://drive.google.com/drive/folders/17oRWDwfSgpstCo6I_RYxqf_2RhK8cti4 
